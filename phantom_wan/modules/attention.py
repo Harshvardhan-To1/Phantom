@@ -1,7 +1,7 @@
 # Copyright 2024-2025 The Alibaba Wan Team Authors. All rights reserved.
 import torch
 
-FLASH_ATTN_3_AVAILABLE = False
+FLASH_ATTN_3_AVAILABLE = True
 FLASH_ATTN_2_AVAILABLE = False
 
 import warnings
